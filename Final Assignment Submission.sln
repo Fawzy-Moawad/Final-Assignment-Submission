@@ -5,6 +5,11 @@ VisualStudioVersion = 25.0.1706.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final Assignment Submission", "Final Assignment Submission\Final Assignment Submission.csproj", "{BCDE47E3-C6DF-4AA0-A9C3-B4A80F19ED1F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EDBDB19B-C182-473C-83CD-01850ABEE71A}"
+	ProjectSection(SolutionItems) = preProject
+		app.config = app.config
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
